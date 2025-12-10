@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pages",
+    "description": "",
+    "home_page_url": "https://haridath123.github.io/My_Profile",
+    "feed_url": "https://haridath123.github.io/My_Profile/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Haridath Nihal"
+    },
+    "items": [
+        {
+            "id": "https://haridath123.github.io/My_Profile/test.html",
+            "url": "https://haridath123.github.io/My_Profile/test.html",
+            "title": "Test",
+            "summary": "This is a test message to ensure the page is working properly.",
+            "content_html": "<p>This is a test message to ensure the page is working properly.</p>",
+            "author": {
+                "name": "Haridath Nihal"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-10T09:36:47+05:30",
+            "date_modified": "2025-12-10T09:36:47+05:30"
+        }
+    ]
+}

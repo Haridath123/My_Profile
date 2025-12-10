@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Pages</title>
+    <link href="https://haridath123.github.io/My_Profile/feed.xml" rel="self" />
+    <link href="https://haridath123.github.io/My_Profile" />
+    <updated>2025-12-10T09:36:47+05:30</updated>
+    <author>
+        <name>Haridath Nihal</name>
+    </author>
+    <id>https://haridath123.github.io/My_Profile</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Haridath Nihal</name>
+        </author>
+        <link href="https://haridath123.github.io/My_Profile/test.html"/>
+        <id>https://haridath123.github.io/My_Profile/test.html</id>
+
+        <updated>2025-12-10T09:36:47+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is a test message to ensure the page is working properly.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test message to ensure the page is working properly.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://haridath123.github.io/My_Profile/sitemap.xml
